@@ -11,7 +11,6 @@
 
 I developed this app to explore real-world applications of data visualization and user-centric design. It served as a hands-on project to deepen my understanding of frontend development, state management, and deploying responsive web applications.
 
----
 
 ## ✨ Features
 
