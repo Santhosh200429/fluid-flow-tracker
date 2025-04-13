@@ -51,15 +51,6 @@ npm run dev
 
 ---
 
-📸 Screenshots
-
- Dashboard showcasing tracked metrics.
-
- Interactive charts displaying data trends.
-
-
----
-
 🧩 Future Enhancements
 
 🌙 Dark Mode: Toggle between light and dark themes.
